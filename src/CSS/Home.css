@@ -1,0 +1,31 @@
+.home {
+  background-image: url("../image/bgImage.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  border-radius: 20px;
+}
+#home-box {
+  padding: 120px 80px;
+  width: 1400px;
+  height: 580px;
+}
+#home-header,
+#home-main {
+  text-align: center;
+  font-family: Poor Story;
+}
+#home-header {
+  font-size: 70px;
+  margin-bottom: 50px;
+}
+#home-main {
+  margin-top: 60px;
+  font-size: 22px;
+}
+hr {
+  width: 150px;
+  height: 2px;
+  border: 0;
+  background-color: white;
+}

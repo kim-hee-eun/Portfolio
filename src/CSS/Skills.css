@@ -1,0 +1,24 @@
+.skill-title {
+  font-size: larger;
+  font-weight: 600;
+  font-family: mulish;
+  padding-left: 30px;
+  margin-bottom: 10px;
+}
+#frontback-box {
+  display: flex;
+  align-items: center;
+}
+#frontend-skills {
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+#etcCertificate-box {
+  display: flex;
+}
+#etc {
+  margin-right: 40px;
+}
+.skill-image {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}

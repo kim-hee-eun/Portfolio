@@ -1,0 +1,25 @@
+#projectDetail {
+  display: flex;
+  margin-top: 30px;
+  height: 550px;
+  align-items: center;
+}
+#projectDetail-image {
+  width: 600px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin-right: 80px;
+  background-color: #fff6f6;
+  border-radius: 100px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+#projectDetail-contents-title {
+  margin-bottom: 30px;
+}
+#periodTech {
+  margin-bottom: 30px;
+  color: #1d3557;
+  font-size: 15px;
+}

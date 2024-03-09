@@ -1,0 +1,30 @@
+#aboutme {
+  margin-bottom: 9px;
+}
+#aboutme-box {
+  display: flex;
+  padding: 70px;
+  align-items: center;
+  margin-top: 25px;
+}
+#aboutme-profileImage {
+  width: 300px;
+  height: 350px;
+  background-image: url("../image/profile.webp");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  border-radius: 2000px;
+  margin-right: 100px;
+  box-shadow: 5px 5px 5px gray;
+}
+svg {
+  width: 35px;
+  height: 35px;
+  margin-right: 20px;
+}
+.aboutme-personalInfo-content {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
